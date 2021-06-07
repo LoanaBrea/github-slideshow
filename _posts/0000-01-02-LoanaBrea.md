@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Bienvenidos a la segunda página!"
+title: "Esto se ve super bien!"
 ---
 Tu texto
 Utiliza la flecha hacia la izquierda para volver!
